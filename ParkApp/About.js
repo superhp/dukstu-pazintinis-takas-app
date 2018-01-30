@@ -15,6 +15,7 @@ export default class About extends React.Component {
      
       <View style={styles.container}>
         <Text>This is infoooo</Text>
+        <Text>Just trying from new computer</Text>
         <Button onPress={this.openControlPanel}
                 title="Drawer"
                 color="#841584"
